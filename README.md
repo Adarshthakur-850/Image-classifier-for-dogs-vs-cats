@@ -1,10 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your **Image Classifier for Dogs vs Cats** project.
-
-You can copy this text into a file named `README.md` in your project root.
-
----
-
-```markdown
 # Image Classifier for Dogs vs Cats
 
 This project implements a machine learning model to classify images of dogs and cats. It uses convolutional neural networks (CNN) to learn features from images and distinguish between the two classes with high accuracy.
