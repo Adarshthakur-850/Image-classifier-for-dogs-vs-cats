@@ -146,15 +146,3 @@ See `LICENSE` for details.
 
 **Adarsh Thakur**
 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
-
-```
-
----
-
-If you want, I can also:
-✅ generate a `requirements.txt`  
-✅ write training / prediction Python scripts  
-✅ help you push this README to your GitHub repo
-
-Just tell me!
-```
